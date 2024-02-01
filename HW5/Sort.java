@@ -1,7 +1,7 @@
 package hw5;
 
 //Alisha Patel
-//I pledge my honor that I have abided by the Stevens Honor Sytem. 
+//I pledge my honor that I have abided by the Stevens Honor System. 
 
 import java.util.Set;
 import java.util.HashSet;
