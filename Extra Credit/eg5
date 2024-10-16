@@ -1,0 +1,5 @@
+push 6
+push 3
+mul
+pop m0
+exit

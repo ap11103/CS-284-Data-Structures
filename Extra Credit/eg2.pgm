@@ -1,0 +1,15 @@
+push 8
+pop m0
+push m0
+push m0
+label l2
+dec
+jmpz done
+pop m0
+push m0
+sub
+push m0
+jmp l2
+label done
+pop m0
+exit
